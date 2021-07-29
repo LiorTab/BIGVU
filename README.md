@@ -17,3 +17,5 @@
  - puppeteer for screenshots
  - videoshow for mp4 video
 
+ - ffmpeg and ffprob
+
